@@ -17,4 +17,4 @@ Quick demo of creating an API and using an API with websockets.
 
 #### MacOS
 - `brew install websocat`
-- 
+- `websocat ws://localhost:8090/ws`
